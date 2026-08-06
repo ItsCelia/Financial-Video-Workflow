@@ -1,4 +1,4 @@
-# micron-video-workflow
+# Financial-video-workflow
 
 一套可复用的**财经/股票研究短视频制作 workflow**，把一只股票或一个行业的研究结论，快速做成 60–120 秒的短视频。
 
